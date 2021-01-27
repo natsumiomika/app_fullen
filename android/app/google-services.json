@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412812108743",
+    "project_id": "fullen-e2c6c",
+    "storage_bucket": "fullen-e2c6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412812108743:android:ebd61f2097d4f2ca422fe2",
+        "android_client_info": {
+          "package_name": "com.example.app_fullen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412812108743-g8201p2go2ag4r9t6r52r2dun8n06870.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTicoWz_1CVXViWs9UoxdH2Jv8IkhvGOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412812108743-g8201p2go2ag4r9t6r52r2dun8n06870.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
